@@ -1,3 +1,5 @@
-### Reference Board for Content Creators
+### This Project is now longer here
 
-![DemoReffy](https://github.com/user-attachments/assets/f7cf09e5-2987-4592-ab19-b2383d5047e0)
+I have decided to rebrand and move 'ReffyBoard' to a new respository and is now under the name 'AniRef'
+
+https://github.com/AniHvn/AniRef
